@@ -16,6 +16,6 @@
 @property (strong, nonatomic) BIDYellowViewController *yellowViewController; 
 @property (strong, nonatomic) BIDBlueViewController *blueViewController;
 
-- (IBAction)switchViews:(id)sender;
+- (IBAction)switchViews:(id)sender;  //some event whatever
 
 @end
